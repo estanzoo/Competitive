@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\rectangle\rectangle\ContestTemplate.cpp(8,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  rectangle.vcxproj -> C:\Users\mysup\source\repos\rectangle\x64\Debug\rectangle.exe

@@ -1,0 +1,68 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\deathgun\deathgun\ContestTemplate.cpp(35,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(190,48): warning C4267: 'initializing': conversion from 'size_t' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xmemory(674): message : see reference to function template instantiation 'std::pair<const std::string,int>::pair<std::string&,_Ty,0>(_Other1,_Other2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=unsigned __int64,
+              _Other1=std::string &,
+              _Other2=unsigned __int64
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xmemory(681): message : see reference to function template instantiation 'std::pair<const std::string,int>::pair<std::string&,_Ty,0>(_Other1,_Other2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=unsigned __int64,
+              _Other1=std::string &,
+              _Other2=unsigned __int64
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\list(582): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::string&,unsigned __int64>(_Alloc &,_Objty *const ,std::string &,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::_List_node<std::pair<const std::string,int>,std::_Default_allocator_traits<std::allocator<std::pair<const std::string,int>>>::void_pointer>>,
+              _Ty=std::pair<const std::string,int>,
+              _Objty=std::pair<const std::string,int>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\list(584): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::string&,unsigned __int64>(_Alloc &,_Objty *const ,std::string &,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::_List_node<std::pair<const std::string,int>,std::_Default_allocator_traits<std::allocator<std::pair<const std::string,int>>>::void_pointer>>,
+              _Ty=std::pair<const std::string,int>,
+              _Objty=std::pair<const std::string,int>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xhash(562): message : see reference to function template instantiation 'std::_List_node_emplace_op2<std::allocator<std::_List_node<std::pair<const std::string,int>,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_List_node_emplace_op2<std::string&,_Ty>(_Alnode &,std::string &,_Ty &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::pair<const std::string,int>>,
+              _Ty=unsigned __int64,
+              _Alnode=std::allocator<std::_List_node<std::pair<const std::string,int>,std::_Default_allocator_traits<std::allocator<std::pair<const std::string,int>>>::void_pointer>>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xhash(586): message : see reference to function template instantiation 'std::_List_node_emplace_op2<std::allocator<std::_List_node<std::pair<const std::string,int>,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_List_node_emplace_op2<std::string&,_Ty>(_Alnode &,std::string &,_Ty &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::pair<const std::string,int>>,
+              _Ty=unsigned __int64,
+              _Alnode=std::allocator<std::_List_node<std::pair<const std::string,int>,std::_Default_allocator_traits<std::allocator<std::pair<const std::string,int>>>::void_pointer>>
+          ]
+C:\Users\mysup\source\repos\deathgun\deathgun\ContestTemplate.cpp(25): message : see reference to function template instantiation 'std::pair<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,bool> std::_Hash<std::_Umap_traits<_Kty,int,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::emplace<std::string&,unsigned __int64>(std::string &,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Ty=std::pair<const std::string,int>,
+              _Kty=std::string,
+              _Hasher=std::hash<std::string>,
+              _Keyeq=std::equal_to<std::string>,
+              _Alloc=std::allocator<std::pair<const std::string,int>>
+          ]
+C:\Users\mysup\source\repos\deathgun\deathgun\ContestTemplate.cpp(25): message : see reference to function template instantiation 'std::pair<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,bool> std::_Hash<std::_Umap_traits<_Kty,int,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::emplace<std::string&,unsigned __int64>(std::string &,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Ty=std::pair<const std::string,int>,
+              _Kty=std::string,
+              _Hasher=std::hash<std::string>,
+              _Keyeq=std::equal_to<std::string>,
+              _Alloc=std::allocator<std::pair<const std::string,int>>
+          ]
+  deathgun.vcxproj -> C:\Users\mysup\source\repos\deathgun\x64\Debug\deathgun.exe

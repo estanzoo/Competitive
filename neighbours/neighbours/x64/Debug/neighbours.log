@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\neighbours\neighbours\ContestTemplate.cpp(8,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  neighbours.vcxproj -> C:\Users\mysup\source\repos\neighbours\x64\Debug\neighbours.exe

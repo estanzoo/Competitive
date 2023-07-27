@@ -1,0 +1,3 @@
+﻿  ccc23s4.cpp
+C:\Users\mysup\source\repos\ccc23s4\ccc23s4\ccc23s4.cpp(6,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ccc23s4.vcxproj -> C:\Users\mysup\source\repos\ccc23s4\x64\Debug\ccc23s4.exe

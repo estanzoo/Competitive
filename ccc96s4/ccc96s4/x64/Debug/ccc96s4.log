@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\ccc96s4\ccc96s4\ContestTemplate.cpp(70,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ccc96s4.vcxproj -> C:\Users\mysup\source\repos\ccc96s4\x64\Debug\ccc96s4.exe

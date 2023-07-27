@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AOC Day 8", "AOC Day 8\AOC Day 8.vcxproj", "{E220AD40-A126-45F9-9024-2841A17A1A87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E220AD40-A126-45F9-9024-2841A17A1A87}.Debug|x64.ActiveCfg = Debug|x64
+		{E220AD40-A126-45F9-9024-2841A17A1A87}.Debug|x64.Build.0 = Debug|x64
+		{E220AD40-A126-45F9-9024-2841A17A1A87}.Debug|x86.ActiveCfg = Debug|Win32
+		{E220AD40-A126-45F9-9024-2841A17A1A87}.Debug|x86.Build.0 = Debug|Win32
+		{E220AD40-A126-45F9-9024-2841A17A1A87}.Release|x64.ActiveCfg = Release|x64
+		{E220AD40-A126-45F9-9024-2841A17A1A87}.Release|x64.Build.0 = Release|x64
+		{E220AD40-A126-45F9-9024-2841A17A1A87}.Release|x86.ActiveCfg = Release|Win32
+		{E220AD40-A126-45F9-9024-2841A17A1A87}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5354DB8-55FB-4110-B35A-77FC80F18680}
+	EndGlobalSection
+EndGlobal

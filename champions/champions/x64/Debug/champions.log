@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\champions\champions\ContestTemplate.cpp(45,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\mysup\source\repos\champions\champions\ContestTemplate.cpp(49,5): error C2143: syntax error: missing ';' before '}'

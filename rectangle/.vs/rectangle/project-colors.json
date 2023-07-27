@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f005c63b-9cb9-4935-9278-e9aa33ce026b": {
+      "ProjectGuid": "f005c63b-9cb9-4935-9278-e9aa33ce026b",
+      "DisplayName": "rectangle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

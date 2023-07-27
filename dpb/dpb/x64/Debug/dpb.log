@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\dpb\dpb\ContestTemplate.cpp(5,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  dpb.vcxproj -> C:\Users\mysup\source\repos\dpb\x64\Debug\dpb.exe

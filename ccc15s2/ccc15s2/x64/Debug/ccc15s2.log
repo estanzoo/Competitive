@@ -1,0 +1,5 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\ccc15s2\ccc15s2\ContestTemplate.cpp(8,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mysup\source\repos\ccc15s2\ccc15s2\ContestTemplate.cpp(28,61): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\mysup\source\repos\ccc15s2\ccc15s2\ContestTemplate.cpp(33,26): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  ccc15s2.vcxproj -> C:\Users\mysup\source\repos\ccc15s2\x64\Debug\ccc15s2.exe

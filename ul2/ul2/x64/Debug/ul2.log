@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\ul2\ul2\ContestTemplate.cpp(30,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ul2.vcxproj -> C:\Users\mysup\source\repos\ul2\x64\Debug\ul2.exe

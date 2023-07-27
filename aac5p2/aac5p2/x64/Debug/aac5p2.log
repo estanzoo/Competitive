@@ -1,0 +1,4 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\aac5p2\aac5p2\ContestTemplate.cpp(13,18): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\mysup\source\repos\aac5p2\aac5p2\ContestTemplate.cpp(13,37): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  aac5p2.vcxproj -> C:\Users\mysup\source\repos\aac5p2\x64\Debug\aac5p2.exe

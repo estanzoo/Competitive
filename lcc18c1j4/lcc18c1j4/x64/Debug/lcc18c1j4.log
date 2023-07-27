@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (lcc18c1j4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ContestTemplate.cpp
+C:\Users\mysup\source\repos\lcc18c1j4\lcc18c1j4\ContestTemplate.cpp(62,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mysup\source\repos\lcc18c1j4\lcc18c1j4\ContestTemplate.cpp(65,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lcc18c1j4.vcxproj -> C:\Users\mysup\source\repos\lcc18c1j4\x64\Debug\lcc18c2j3.exe

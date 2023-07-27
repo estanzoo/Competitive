@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\guessthesong\guessthesong\ContestTemplate.cpp(18,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  guessthesong.vcxproj -> C:\Users\mysup\source\repos\guessthesong\x64\Debug\guessthesong.exe

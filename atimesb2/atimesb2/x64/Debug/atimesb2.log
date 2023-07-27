@@ -1,0 +1,4 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\atimesb2\atimesb2\ContestTemplate.cpp(8,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mysup\source\repos\atimesb2\atimesb2\ContestTemplate.cpp(20,12): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  atimesb2.vcxproj -> C:\Users\mysup\source\repos\atimesb2\x64\Debug\atimesb2.exe

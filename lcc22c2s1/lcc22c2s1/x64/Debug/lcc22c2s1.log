@@ -1,0 +1,4 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\lcc22c2s1\lcc22c2s1\ContestTemplate.cpp(8,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mysup\source\repos\lcc22c2s1\lcc22c2s1\ContestTemplate.cpp(26,19): warning C4101: 'index': unreferenced local variable
+  lcc22c2s1.vcxproj -> C:\Users\mysup\source\repos\lcc22c2s1\x64\Debug\lcc22c2s1.exe

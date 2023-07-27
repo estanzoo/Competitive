@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\gi18s1\gi18s1\ContestTemplate.cpp(73,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  gi18s1.vcxproj -> C:\Users\mysup\source\repos\gi18s1\x64\Debug\gi18s1.exe

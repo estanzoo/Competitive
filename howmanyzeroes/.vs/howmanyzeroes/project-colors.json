@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "43db0282-1f2b-4bcb-837d-39590bbcd8f2": {
+      "ProjectGuid": "43db0282-1f2b-4bcb-837d-39590bbcd8f2",
+      "DisplayName": "howmanyzeroes",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

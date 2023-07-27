@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\dmpg17s2\dmpg17s2\ContestTemplate.cpp(8,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  dmpg17s2.vcxproj -> C:\Users\mysup\source\repos\dmpg17s2\x64\Debug\dmpg17s2.exe

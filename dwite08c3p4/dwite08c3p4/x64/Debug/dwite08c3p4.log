@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\dwite08c3p4\dwite08c3p4\ContestTemplate.cpp(19,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  dwite08c3p4.vcxproj -> C:\Users\mysup\source\repos\dwite08c3p4\x64\Debug\dwite08c3p4.exe

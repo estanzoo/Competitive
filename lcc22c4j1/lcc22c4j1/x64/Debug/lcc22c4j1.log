@@ -1,0 +1,5 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\lcc22c4j1\lcc22c4j1\ContestTemplate.cpp(8,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mysup\source\repos\lcc22c4j1\lcc22c4j1\ContestTemplate.cpp(23,40): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mysup\source\repos\lcc22c4j1\lcc22c4j1\ContestTemplate.cpp(27,40): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  lcc22c4j1.vcxproj -> C:\Users\mysup\source\repos\lcc22c4j1\x64\Debug\lcc22c4j1.exe

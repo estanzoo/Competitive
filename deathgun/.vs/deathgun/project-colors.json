@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "3e23c2a5-f682-487e-8aec-9558fff05c3a": {
+      "ProjectGuid": "3e23c2a5-f682-487e-8aec-9558fff05c3a",
+      "DisplayName": "deathgun",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

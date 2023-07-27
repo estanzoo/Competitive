@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\ccc23s3\ccc23s3\ContestTemplate.cpp(7,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ccc23s3.vcxproj -> C:\Users\mysup\source\repos\ccc23s3\x64\Debug\ccc23s3.exe

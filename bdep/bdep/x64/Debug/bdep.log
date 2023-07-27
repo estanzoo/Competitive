@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\bdep\bdep\ContestTemplate.cpp(8,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  bdep.vcxproj -> C:\Users\mysup\source\repos\bdep\x64\Debug\bdep.exe

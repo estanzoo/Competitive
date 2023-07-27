@@ -1,0 +1,4 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\oly20practice82\oly20practice82\ContestTemplate.cpp(26,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\mysup\source\repos\oly20practice82\oly20practice82\ContestTemplate.cpp(27,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  oly20practice82.vcxproj -> C:\Users\mysup\source\repos\oly20practice82\x64\Debug\oly20practice82.exe

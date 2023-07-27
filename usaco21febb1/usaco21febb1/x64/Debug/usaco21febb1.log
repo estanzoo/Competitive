@@ -1,0 +1,4 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\usaco21febb1\usaco21febb1\ContestTemplate.cpp(36,26): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\mysup\source\repos\usaco21febb1\usaco21febb1\ContestTemplate.cpp(37,23): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  usaco21febb1.vcxproj -> C:\Users\mysup\source\repos\usaco21febb1\x64\Debug\usaco21febb1.exe

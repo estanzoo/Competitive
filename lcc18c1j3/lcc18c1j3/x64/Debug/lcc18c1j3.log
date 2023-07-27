@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\lcc18c1j3\lcc18c1j3\ContestTemplate.cpp(27,48): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+  lcc18c1j3.vcxproj -> C:\Users\mysup\source\repos\lcc18c1j3\x64\Debug\lcc18c1j3.exe

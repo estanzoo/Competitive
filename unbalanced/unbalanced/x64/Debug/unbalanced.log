@@ -1,0 +1,4 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\unbalanced\unbalanced\ContestTemplate.cpp(8,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mysup\source\repos\unbalanced\unbalanced\ContestTemplate.cpp(17,15): warning C4101: 'last': unreferenced local variable
+  unbalanced.vcxproj -> C:\Users\mysup\source\repos\unbalanced\x64\Debug\unbalanced.exe

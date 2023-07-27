@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\usaco20decb2\usaco20decb2\ContestTemplate.cpp(21,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  usaco20decb2.vcxproj -> C:\Users\mysup\source\repos\usaco20decb2\x64\Debug\usaco20decb2.exe

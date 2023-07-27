@@ -1,0 +1,6 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\oly22practice73\oly22practice73\ContestTemplate.cpp(8,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mysup\source\repos\oly22practice73\oly22practice73\ContestTemplate.cpp(25,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mysup\source\repos\oly22practice73\oly22practice73\ContestTemplate.cpp(29,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mysup\source\repos\oly22practice73\oly22practice73\ContestTemplate.cpp(32,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  oly22practice73.vcxproj -> C:\Users\mysup\source\repos\oly22practice73\x64\Debug\oly22practice73.exe

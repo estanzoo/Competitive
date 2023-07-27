@@ -1,0 +1,4 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\chain\chain\ContestTemplate.cpp(41,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mysup\source\repos\chain\chain\ContestTemplate.cpp(43,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  chain.vcxproj -> C:\Users\mysup\source\repos\chain\x64\Debug\chain.exe

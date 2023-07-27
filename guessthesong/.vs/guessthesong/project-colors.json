@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b77ee210-5709-4cef-9062-2d3371adbea2": {
+      "ProjectGuid": "b77ee210-5709-4cef-9062-2d3371adbea2",
+      "DisplayName": "guessthesong",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

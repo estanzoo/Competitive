@@ -1,0 +1,4 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\treesus\treesus\ContestTemplate.cpp(8,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mysup\source\repos\treesus\treesus\ContestTemplate.cpp(31,19): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  treesus.vcxproj -> C:\Users\mysup\source\repos\treesus\x64\Debug\treesus.exe

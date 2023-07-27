@@ -1,0 +1,5 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\cco12p2\cco12p2\ContestTemplate.cpp(8,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mysup\source\repos\cco12p2\cco12p2\ContestTemplate.cpp(20,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\mysup\source\repos\cco12p2\cco12p2\ContestTemplate.cpp(54,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  cco12p2.vcxproj -> C:\Users\mysup\source\repos\cco12p2\x64\Debug\cco12p2.exe

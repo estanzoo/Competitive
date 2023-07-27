@@ -1,0 +1,4 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\ecoo16r1p3\ecoo16r1p3\ContestTemplate.cpp(25,23): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\mysup\source\repos\ecoo16r1p3\ecoo16r1p3\ContestTemplate.cpp(26,24): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  ecoo16r1p3.vcxproj -> C:\Users\mysup\source\repos\ecoo16r1p3\x64\Debug\ecoo16r1p3.exe

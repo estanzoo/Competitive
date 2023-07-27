@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\ContestTemplate19\ContestTemplate19\ContestTemplate.cpp(5,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ContestTemplate19.vcxproj -> C:\Users\mysup\source\repos\ContestTemplate19\x64\Debug\ContestTemplate19.exe

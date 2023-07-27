@@ -1,0 +1,4 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\ccc03s2\ccc03s2\ContestTemplate.cpp(14,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mysup\source\repos\ccc03s2\ccc03s2\ContestTemplate.cpp(26): warning C4715: 'reWord': not all control paths return a value
+  ccc03s2.vcxproj -> C:\Users\mysup\source\repos\ccc03s2\x64\Debug\ccc03s2.exe

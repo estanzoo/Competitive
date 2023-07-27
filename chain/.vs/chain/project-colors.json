@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b5525858-85f1-4cf9-8ca7-7aa57c133a60": {
+      "ProjectGuid": "b5525858-85f1-4cf9-8ca7-7aa57c133a60",
+      "DisplayName": "chain",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

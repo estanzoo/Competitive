@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\abaseproblem\abaseproblem\ContestTemplate.cpp(27,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  abaseproblem.vcxproj -> C:\Users\mysup\source\repos\abaseproblem\x64\Debug\abaseproblem.exe

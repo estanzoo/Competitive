@@ -1,0 +1,3 @@
+﻿  Solution.cpp
+C:\Users\mysup\source\repos\dpc\dpc\Solution.cpp(6,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  dpc.vcxproj -> C:\Users\mysup\source\repos\dpc\x64\Debug\dpc.exe

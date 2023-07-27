@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\dpe\dpe\ContestTemplate.cpp(8,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  dpe.vcxproj -> C:\Users\mysup\source\repos\dpe\x64\Debug\dpe.exe

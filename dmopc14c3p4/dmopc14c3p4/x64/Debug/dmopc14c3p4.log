@@ -1,0 +1,4 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\dmopc14c3p4\dmopc14c3p4\ContestTemplate.cpp(56,20): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\mysup\source\repos\dmopc14c3p4\dmopc14c3p4\ContestTemplate.cpp(57,20): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  dmopc14c3p4.vcxproj -> C:\Users\mysup\source\repos\dmopc14c3p4\x64\Debug\dmopc14c3p4.exe

@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\hkccc08j3\hkccc08j3\ContestTemplate.cpp(20): warning C4715: 'compare': not all control paths return a value
+  hkccc08j3.vcxproj -> C:\Users\mysup\source\repos\hkccc08j3\x64\Debug\hkccc08j3.exe

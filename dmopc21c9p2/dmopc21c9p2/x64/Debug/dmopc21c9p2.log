@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\dmopc21c9p2\dmopc21c9p2\ContestTemplate.cpp(19,32): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  dmopc21c9p2.vcxproj -> C:\Users\mysup\source\repos\dmopc21c9p2\x64\Debug\dmopc21c9p2.exe

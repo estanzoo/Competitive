@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\sac22cc3jp4\sac22cc3jp4\ContestTemplate.cpp(27,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  sac22cc3jp4.vcxproj -> C:\Users\mysup\source\repos\sac22cc3jp4\x64\Debug\sac22cc3jp4.exe

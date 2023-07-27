@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\asquareproblem\asquareproblem\ContestTemplate.cpp(25,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  asquareproblem.vcxproj -> C:\Users\mysup\source\repos\asquareproblem\x64\Debug\asquareproblem.exe

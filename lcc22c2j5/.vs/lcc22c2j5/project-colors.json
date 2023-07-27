@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "849a2f9e-afde-4698-a3f5-67a4eb01d26f": {
+      "ProjectGuid": "849a2f9e-afde-4698-a3f5-67a4eb01d26f",
+      "DisplayName": "lcc22c2j5",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

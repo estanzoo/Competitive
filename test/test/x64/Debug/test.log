@@ -1,0 +1,2 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\test\test\ContestTemplate.cpp(12,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int

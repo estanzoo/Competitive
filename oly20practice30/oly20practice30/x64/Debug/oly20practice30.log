@@ -1,0 +1,4 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\oly20practice30\oly20practice30\ContestTemplate.cpp(46,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mysup\source\repos\oly20practice30\oly20practice30\ContestTemplate.cpp(49,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  oly20practice30.vcxproj -> C:\Users\mysup\source\repos\oly20practice30\x64\Debug\oly20practice30.exe

@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\shipping\shipping\ContestTemplate.cpp(17,10): warning C4101: 'vis': unreferenced local variable
+  shipping.vcxproj -> C:\Users\mysup\source\repos\shipping\x64\Debug\shipping.exe

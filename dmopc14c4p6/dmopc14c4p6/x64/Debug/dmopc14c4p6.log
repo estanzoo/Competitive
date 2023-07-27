@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\dmopc14c4p6\dmopc14c4p6\ContestTemplate.cpp(8,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  dmopc14c4p6.vcxproj -> C:\Users\mysup\source\repos\dmopc14c4p6\x64\Debug\dmopc14c4p6.exe

@@ -1,0 +1,3 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\mccc20c1j1\mccc20c1j1\ContestTemplate.cpp(23,9): warning C4552: '>>': result of expression not used
+  mccc20c1j1.vcxproj -> C:\Users\mysup\source\repos\mccc20c1j1\x64\Debug\mccc20c1j1.exe

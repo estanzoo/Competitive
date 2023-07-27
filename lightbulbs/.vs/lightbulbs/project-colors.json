@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aafc41cc-d8b8-49e5-8103-a7212c557078": {
+      "ProjectGuid": "aafc41cc-d8b8-49e5-8103-a7212c557078",
+      "DisplayName": "lightbulbs",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

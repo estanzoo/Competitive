@@ -1,0 +1,4 @@
+﻿  ContestTemplate.cpp
+C:\Users\mysup\source\repos\adividingproblem\adividingproblem\ContestTemplate.cpp(32,29): warning C4305: 'initializing': truncation from '__int64' to 'int'
+C:\Users\mysup\source\repos\adividingproblem\adividingproblem\ContestTemplate.cpp(32,18): warning C4309: 'initializing': truncation of constant value
+  adividingproblem.vcxproj -> C:\Users\mysup\source\repos\adividingproblem\x64\Debug\adividingproblem.exe

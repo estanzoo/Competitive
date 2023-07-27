@@ -1,0 +1,3 @@
+﻿  cccPrac.cpp
+C:\Users\mysup\source\repos\cccPrac\cccPrac\cccPrac.cpp(4,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  cccPrac.vcxproj -> C:\Users\mysup\source\repos\cccPrac\x64\Debug\cccPrac.exe
