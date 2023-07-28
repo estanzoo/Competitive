@@ -5,6 +5,11 @@
       "ProjectGuid": "123231f6-72b1-47cd-8f35-d1bed0145d38",
       "DisplayName": "2spooky4me",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 1
